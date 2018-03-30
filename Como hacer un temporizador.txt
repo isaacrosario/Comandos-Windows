@@ -1,0 +1,11 @@
+para crear un temporizador se hace lo siguiente
+
+
+shutdown -s -t 3600
+
+
+3600 = 1 hora
+
+para cancelar
+
+shutdown -a

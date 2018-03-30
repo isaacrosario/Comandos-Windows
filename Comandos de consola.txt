@@ -1,0 +1,17 @@
+Comandos de Consola
+
+para ocultar archivo Attrib +s +h video.mp4
+
+para desocultar archivo Attrib -s -h video.mp4
+
+para acceder a una Unidad D:
+
+para acceder a una carpeta o archivo desde la consola: cd nombre de carpeta
+
+para ver el contenido dir
+
+para ver la ip: ipconfig o ipxconfig/all
+
+Sacar virus de memoria: attrib /s /d -a -r -s -h *.*
+
+para abrir un archivo literalmente: start video

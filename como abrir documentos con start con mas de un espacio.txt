@@ -1,0 +1,24 @@
+
+Es necesario encerrar la ruta entre comillas ya que incluye un espacio.
+La carpeta se abre minimizada en este caso.
+Es necesario usar dos comillas después del nombre del comando, para que no existan conflictos al tratar de interpretar la RUTA como el TITULO.
+
+
+
+
+
+
+
+
+START "" "D:\Pictures\Fotos lindas"
+
+
+y si es un documento se coloca por ejemplo documento.txt
+
+
+
+START "" "%USERPROFILE%\Documents\Mi Presentacion.pps"
+
+@ECHO OFF es para dejar la consola sin letra alguna
+
+@ECHO ON para hacer lo contrario

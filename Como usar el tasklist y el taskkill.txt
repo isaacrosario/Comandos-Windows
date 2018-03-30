@@ -1,0 +1,3 @@
+primero se escribe tasklist
+
+despues se escribe taskkill /im notepad.exe

@@ -1,0 +1,7 @@
+
+
+start https://www.youtube.com/playlist?list=PLF7C0FD2523EC37E9
+
+timeout /nobreak 06
+
+start https://translate.google.com.do/
