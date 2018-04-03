@@ -1,26 +1,12 @@
-1.Accessibility Controls – access.cpl 
-2.Accessibility Wizard – accwiz 
+
+
 3.Add Hardware Wizard – hdwwiz.cpl 
 4.Add/Remove Programs – appwiz.cpl 
 5.Administrative Tools – control admintools 
 6.Automatic Updates – wuaucpl.cpl 
-7.Bluetooth Transfer Wizard – fsquirt 
-8.Calculator – calc 
-9.Certificate Manager – certmgr.msc 
-10.Character Map – charmap 
-11.Check Disk Utility – chkdsk 
-12.Clipboard Viewer – clipbrd 
-13.Command Prompt – cmd 
-14.Component Services – dcomcnfg 
-15.Computer Management – compmgmt.msc 
-16.Control Panel – control 
-17.Date and Time Properties – timedate.cpl 
-18.DDE Shares – ddeshare 
-19.Device Manager – devmgmt.msc 
-20.Direct X Troubleshooter – dxdiag 
-21.Disk Cleanup Utility – cleanmgr 
-22.Disk Defragment – dfrg.msc 
-23.Disk Management – diskmgmt.msc 
+
+15.Computer Management – compmgmt.msc   //disco virtual
+23.Disk Management – diskmgmt.msc  //este es el siguiente
 24.Disk Partition Manager – diskpart 
 25.Display Properties – control desktop 
 26.Display Properties – desk.cpl 
