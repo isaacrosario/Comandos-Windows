@@ -5,19 +5,11 @@
 5.Administrative Tools – control admintools 
 6.Automatic Updates – wuaucpl.cpl 
 
-15.Computer Management – compmgmt.msc   //disco virtual
-23.Disk Management – diskmgmt.msc  //este es el siguiente
-24.Disk Partition Manager – diskpart 
-25.Display Properties – control desktop 
-26.Display Properties – desk.cpl 
-27.Dr. Watson System Troubleshooting Utility – drwtsn32 
-28.Driver Verifier Utility – verifier 
-29.Event Viewer – eventvwr.msc 
-30.Files and Settings Transfer Tool – migwiz 
-31.File Signature Verification Tool – sigverif 
-32.Findfast – findfast.cpl 
-33.Firefox – firefox 
-34.Folders Properties – control folders 
+23.Disk Management – diskmgmt.msc   //discos virtuales
+25.Display Properties – control desktop    //propiedades de escritorio
+26.Display Properties – desk.cpl                //propiedades de pantalla
+
+34.Folders Properties – control folders   //propiedades de folder
 35.Fonts – control fonts 
 36.Fonts Folder – fonts 
 37.Free Cell Card Game – freecell 
