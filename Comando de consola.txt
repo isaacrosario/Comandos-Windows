@@ -20,3 +20,5 @@ route print  //Este comando le mostrará la tabla de enrutamiento, Puerta de enla
 netstat //Este comando le mostrará las estadísticas de las conexiones activas.
 
 Net User // es un comando muy útil para administrar cuentas de usuario
+
+rd /s /q // borrar carpeta con contenidos
