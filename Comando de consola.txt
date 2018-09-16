@@ -1,0 +1,22 @@
+Administrative Tools – control admintools  
+
+Disk Management – diskmgmt.msc   //discos virtuales
+
+Folders Properties – control folders   //propiedades de folder
+
+On Screen Keyboard – osk  //teclado virtual
+
+Windows Version – winver  //informacin del sistema operativo
+
+nslookup //veriguar la IP de un servidor de correo específico
+
+arp -a    //puede averiguar si alguien ha hecho el envenenamiento ARP (ARP Spoofing) en la LAN utilizando este comando.
+
+Tracert //le dará los saltos en que un paquete viaja hasta llegar a su destino final. 
+
+route print  //Este comando le mostrará la tabla de enrutamiento, Puerta de enlace (gateway), interfaz y métrica.
+
+
+netstat //Este comando le mostrará las estadísticas de las conexiones activas.
+
+Net User // es un comando muy útil para administrar cuentas de usuario

@@ -1,5 +1,0 @@
-5.Administrative Tools – control admintools  
-23.Disk Management – diskmgmt.msc   //discos virtuales
-34.Folders Properties – control folders   //propiedades de folder
- 67.On Screen Keyboard – osk  //teclado virtual
-115.Windows Version – winver  //informacin del sistema operativo
